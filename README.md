@@ -60,8 +60,3 @@ Descriptor overrides must be applied before USB enumeration — the sketch
 handles re-enumeration automatically.
 License
 MIT — see LICENSE.
-
-Two reminders:
-- Save it as **`README.md`** (exact name) — that's the only filename GitHub renders as the repo homepage; `read.md` won't show up.
-- Swap or remove the **License** section if you're not using MIT.
-Want a combined README that covers both the RP2040 and RP2350 boards in one repo instead of two separate ones?
